@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Insung",
+      "forehand_side": "right",
+      "style": "baseliner",
+      "net_play": 3,
+      "volley": 3,
+      "speed": 5,
+      "first_serve_pct": 0.55,
+      "double_fault_pct": 0.05
+    },
+    {
+      "name": "James",
+      "forehand_side": "left",
+      "style": "net-player",
+      "net_play": 5,
+      "volley": 5,
+      "speed": 5,
+      "first_serve_pct": 0.6,
+      "double_fault_pct": 0.05
+    },
+    {
+      "name": "JYP",
+      "forehand_side": "right",
+      "style": "baseliner",
+      "net_play": 3,
+      "volley": 2,
+      "speed": 3,
+      "first_serve_pct": 0.55,
+      "double_fault_pct": 0.04
+    },
+    {
+      "name": "Andy",
+      "forehand_side": "left",
+      "style": "net-player",
+      "net_play": 4,
+      "volley": 5,
+      "speed": 2,
+      "first_serve_pct": 0.65,
+      "double_fault_pct": 0.02
+    }
+]
+  
